@@ -1,0 +1,44 @@
+h1,h2{
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    float: center;
+}
+
+button{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#p1{
+    text-align: center;
+}
+
+header{
+    background-image: url(https://st1.bgr.in/wp-content/uploads/2019/12/Samsung-Galaxy-Tab-A.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 200px;
+}
+
+#div3{
+    text-align: center;
+    background-color: rgba(235, 200, 106, 0.3);
+}
+
+#div5{
+    text-align: center;
+    background-color: rgba(235, 200, 106, 0.3);
+}
+
+h3{
+    text-align: center;
+    background-color: blue;
+}
+
+footer{
+    color: white;
+}
